@@ -20,7 +20,7 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
-    <ProjectName>com0com.configurator.gui</ProjectName>
+    <ProjectName>setupg</ProjectName>
     <ProjectGuid>{6ACC2F57-86A2-41D4-8744-5982985E99DA}</ProjectGuid>
     <RootNamespace>SetupApp</RootNamespace>
     <Keyword>ManagedCProj</Keyword>
